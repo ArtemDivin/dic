@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ClavaDavay</string>
+    <string name="label_no_words">Нет слов в словаре</string>
+    <string name="label_edit_field">нечего редактировать</string>
+    <string name="hint_word_for_translate">Слово для перевода</string>
+    <string name="hint_translate">Перевод</string>
+    <string name="label_choose_variant">Выберите варианты для словаря</string>
+    <string name="label_delete">Хотите удалить эту запись?</string>
+    <string name="button_yes">Да</string>
+    <string name="button_no">Нет</string>
+    <string name="lanel_dic">Словарь</string>
+    <string name="label_edit">Изменить слово</string>
+    <string name="label_add">Добавить слово</string>
+    <string name="button_add">добавить</string>
+    <string name="button_save">сохранить</string>
+    <string name="button_ok">Ok</string>
+    <string name="message_empty_field">Поля не могут быть пустыми</string>
+    <string name="label_error">Непредвиденная ошибка</string>
+</resources>
